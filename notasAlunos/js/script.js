@@ -14,6 +14,6 @@ function mediaNotas() {
     alert('Você foi aprovado!!!')
   } else {
     nFcolor.classList.add('notaVermelha')
-    alert('Infelismente você foi reprovado.')
+    alert('Infelizmente você foi reprovado.')
   }
 }
